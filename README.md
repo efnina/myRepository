@@ -1,4 +1,5 @@
 myRepository
 ============
 
-Public repository to share code
+Public repository - efnina
+2014
