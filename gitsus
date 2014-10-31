@@ -1,0 +1,117 @@
+[33mcommit 9758647e0e13bc27b10ca53ce81573a68830221d[m
+Author: Edson Nina <efnina@gmail.com>
+Date:   Fri Oct 3 18:16:55 2014 -0400
+
+    Added new line to file
+
+[33mcommit 3c6b06eb05b5eb3c7775c5c81a24f4123f32be3f[m
+Author: efnina <efnina@gmail.com>
+Date:   Fri Oct 3 18:14:47 2014 -0400
+
+    Create friday.js
+
+[33mcommit 173c0d6e21d0bc70963b367ba99a6b1c0e5460de[m
+Author: Edson Nina <efnina@gmail.com>
+Date:   Fri Oct 3 12:01:04 2014 -0400
+
+    adding friday script
+
+[33mcommit f1ad7b194f41650891b97ffce8ce2968223cfade[m
+Author: Edson Nina <efnina@gmail.com>
+Date:   Thu Oct 2 18:23:10 2014 -0400
+
+    New files added
+
+[33mcommit b1c4288c00ff9c3dc898ab20788c2a50afccdd25[m
+Author: Edson Nina <efnina@gmail.com>
+Date:   Thu Oct 2 18:09:54 2014 -0400
+
+    Fix DE1234 and add .txt files
+
+[33mcommit 67342d044988df3219655342baf5fcbfc5e52df3[m
+Author: Edson Nina <efnina@gmail.com>
+Date:   Thu Oct 2 17:09:27 2014 -0400
+
+    pushing fix
+
+[33mcommit 71b67b762e71fc0e30ae8596b3fc33cdfdb0bf5c[m
+Author: Edson Nina <efnina@gmail.com>
+Date:   Thu Oct 2 17:03:42 2014 -0400
+
+    Modified function and added readme for fix
+
+[33mcommit 20fac5acaaef4d00623abb94192e75270262653a[m
+Author: Edson Nina <efnina@gmail.com>
+Date:   Thu Oct 2 16:54:51 2014 -0400
+
+    Adding mainfunction.js
+
+[33mcommit 3e6f186a2a9b5abeffc33f9a124abf23f9575cb1[m
+Author: Edson Nina <efnina@gmail.com>
+Date:   Thu Oct 2 13:43:10 2014 -0400
+
+    Deleting index1 and index2
+
+[33mcommit 36fa0482f493892180648a3337336746dc8f4752[m
+Author: Edson Nina <efnina@gmail.com>
+Date:   Thu Oct 2 10:09:53 2014 -0400
+
+    Deleting .png file
+
+[33mcommit 9cc37dc5abf517175b08f2531018f8da0512de82[m
+Author: Edson Nina <efnina@gmail.com>
+Date:   Tue Sep 30 15:54:09 2014 -0400
+
+    guitar tab ready to submit
+    
+    This is a guitar tab
+
+[33mcommit fa57ad90c2ffe3eee17e595bb6b2ecfa6a6c24d9[m
+Author: efnina <efnina@gmail.com>
+Date:   Mon Sep 29 18:52:12 2014 -0400
+
+    Create testfile.txt
+
+[33mcommit c38cebad00e2398924dab6e7e4722771bbdb0d59[m
+Author: Edson Nina <efnina@gmail.com>
+Date:   Mon Sep 29 18:42:19 2014 -0400
+
+    no summary
+    
+    no description
+
+[33mcommit 2d409dd442864fb28f235ab42bb63a88ba089d07[m
+Author: Edson Nina <efnina@gmail.com>
+Date:   Mon Sep 29 15:35:28 2014 -0400
+
+    Revert "Revert "index web page""
+    
+    This reverts commit 0ad849903423429211de91b031d3c606f8e4e782.
+
+[33mcommit 0ad849903423429211de91b031d3c606f8e4e782[m
+Author: Edson Nina <efnina@gmail.com>
+Date:   Mon Sep 29 15:26:23 2014 -0400
+
+    Revert "index web page"
+    
+    This reverts commit 77849386a6006f8253730c9198fcb12e7b367ac1.
+
+[33mcommit 77849386a6006f8253730c9198fcb12e7b367ac1[m
+Author: Edson Nina <efnina@gmail.com>
+Date:   Mon Sep 29 15:10:39 2014 -0400
+
+    index web page
+    
+    This is my default page
+
+[33mcommit df955998ad62412861552a009672646d83a57d62[m
+Author: efnina <efnina@gmail.com>
+Date:   Fri Sep 26 15:49:56 2014 -0400
+
+    Create README.md
+
+[33mcommit 0d0a47bb68018c9eff67987c3da5756bec92d035[m
+Author: efnina <efnina@gmail.com>
+Date:   Fri Sep 26 10:34:04 2014 -0400
+
+    :lollipop: Added .gitattributes & .gitignore files
